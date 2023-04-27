@@ -171,6 +171,10 @@ file = "config/yosbr/config/mousewheelie.hjson"
 hash = "20ea58c24c56a90e134273ce67b9eb2386381c6cd6463125b3b4f1e76e5f3f97"
 
 [[files]]
+file = "config/yosbr/config/smoothswapping.json"
+hash = "260c6913f8bb21040195bee3191ca8d12422c074f041d5426452593d623f26c3"
+
+[[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "c4201bb1b19c4167488f9232f861fc39d6de0d65457c807c456ed9404b913f8c"
 
