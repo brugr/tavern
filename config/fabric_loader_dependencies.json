@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "overrides": {
+    "fabricloader": { "+depends": { "fabricloader": ">=0.14.10" } },
+    "debugify": { "conflicts": {} },
+    "cem": { "recommends": {} },
+    "colormatic": { "recommends": {} },
+    "omega-config-gui": { "recommends": {} },
+    "railways": { "recommends": {} },
+    "simplyswords": { "recommends": {} }
+  }
+}

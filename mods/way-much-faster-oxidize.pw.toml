@@ -1,0 +1,13 @@
+name = "Way Much Faster Oxidize"
+filename = "way_much_faster_oxidize-1.19.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zmyM5abs/versions/DucPGEsH/way_much_faster_oxidize-1.19.2-1.1.1.jar"
+hash-format = "sha1"
+hash = "7dc858ea5db91ae981538f9c81cfac0f7b178025"
+
+[update]
+[update.modrinth]
+mod-id = "zmyM5abs"
+version = "DucPGEsH"

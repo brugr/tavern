@@ -1,0 +1,16 @@
+name = "Tavern"
+author = "brugr"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "259246f5316f47f2bd5bdd2e2db3eb1898ff23977d5b548735fbb3466171906a"
+
+[versions]
+fabric = "0.14.19"
+minecraft = "1.19.2"
+
+[options]
+datapack-folder = "config/openloader/data/"
