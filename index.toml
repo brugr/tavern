@@ -26,7 +26,7 @@ hash = "aef3ef639b3d96d0e273825d4e67a22a5e4e2501aa7c68f0795d73f99a0281ef"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ef2a2680bd4565c0f5631827036d824b1a55c89c45cbfd7d502b3b83ec91c488"
+hash = "b3a48725a77dde2ddaf79e64af4e9362fd97e1a39ec9c1094eb0a83eb010e5df"
 
 [[files]]
 file = "config/jumpyboat-common.toml"
@@ -124,7 +124,7 @@ hash = "7bad295759eddcd3e88b07fa4a7668a936be2985b91746627122726e9bb9eb6d"
 
 [[files]]
 file = "config/yosbr/config/dynamiccrosshair.json5"
-hash = "a7b8b488ef15d9cca935555eb60e925faa73b097ce5893b159bbbae8b8049a7e"
+hash = "2877e7e7842a0170b299ce211836630aea4f7c4814e4c6ad2ab3b0de65de9e19"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -185,6 +185,10 @@ hash = "67a0b8850e90a435a938d1267f4a67f83c4a60c81b34c93281c0497ca3bf2b0c"
 [[files]]
 file = "config/yosbr/config/tr7zwDonorSettings.json"
 hash = "1afb78982a958966735d4cce8cacc62d75123aa64bc4d934228fa697d582ee5d"
+
+[[files]]
+file = "config/yosbr/config/travelerstitles-fabric-1_19.toml"
+hash = "cab04d600ebaed46d6dab17d1e8d44f40006289eed652731f90bea332fb456ce"
 
 [[files]]
 file = "config/yosbr/config/walljump.json5"
@@ -915,6 +919,11 @@ hash = "ae6ba8751a4bffab1cdb430210a08f498f28fa6c5ab0775aac4a7c242fb9df0b"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "2ce31ab44b467a2d2ca1ef630ff879ae33236149ee02abb9a1527638614bd981"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -1297,6 +1306,11 @@ metafile = true
 [[files]]
 file = "mods/smoothboot.pw.toml"
 hash = "ee3d980387c796b4342db65d9769dd21222bf4b7250f4a380518a611291cfeea"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "45e75b06cdf0b30a62dd2ef95a7476e98d109bec09f8caefa9ea5902cad988a8"
 metafile = true
 
 [[files]]

@@ -9,7 +9,14 @@
         }
       },
       {
-        "text": "Tavern 1.0.0",
+        "text": "Changelog",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://github.com/brugr/tavern/blob/main/docs/CHANGELOG.md"
+        }
+      },
+      {
+        "text": "Tavern 1.1.0",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/brugr/tavern"

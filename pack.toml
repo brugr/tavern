@@ -1,12 +1,12 @@
 name = "Tavern"
 author = "brugr"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9d693ecc1ef310a22e8a8fb95e8b387a2f0e12f143039b889d564837d72a8a05"
+hash = "5d6eb26955fe840c50bd352643273aea66d0562ee232616cb15f1cc2f4952160"
 
 [versions]
 fabric = "0.14.19"
