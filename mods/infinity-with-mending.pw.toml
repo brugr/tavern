@@ -1,13 +1,13 @@
 name = "Infinity With Mending"
-filename = "infwithmend-1.0.2.jar"
+filename = "infwithmend-fabric-1.19.2-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TToG3iVN/versions/oxtFh9dM/infwithmend-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/TToG3iVN/versions/vNHHaIBM/infwithmend-fabric-1.19.2-1.0.0.jar"
 hash-format = "sha1"
-hash = "c8a2c01855982c60f503b8d6fe2dbd0d1a85f08d"
+hash = "dd76abc02230d72ffb6bd7f1c798e7c52b2c3872"
 
 [update]
 [update.modrinth]
 mod-id = "TToG3iVN"
-version = "oxtFh9dM"
+version = "vNHHaIBM"

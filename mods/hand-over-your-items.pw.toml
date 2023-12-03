@@ -1,13 +1,13 @@
 name = "Hand Over Your Items"
-filename = "handoveryouritems-1.19.2-3.1.jar"
+filename = "handoveryouritems-1.19.2-3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z9RMqaGu/versions/p67PMgFs/handoveryouritems-1.19.2-3.1.jar"
+url = "https://cdn.modrinth.com/data/Z9RMqaGu/versions/KYJMVxjw/handoveryouritems-1.19.2-3.0.jar"
 hash-format = "sha1"
-hash = "ff26078cb2a3e0acd10ce6ee6cc6907df26e426a"
+hash = "f92b9d6f54182113c94f3cdd42f3ca082cd6c750"
 
 [update]
 [update.modrinth]
 mod-id = "Z9RMqaGu"
-version = "p67PMgFs"
+version = "KYJMVxjw"
