@@ -1,13 +1,13 @@
 name = "Fixed Anvil Repair Cost"
-filename = "fixedanvilrepaircost-1.19.2-3.1.jar"
+filename = "fixedanvilrepaircost-1.19.2-3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jmLyNFBG/versions/ONPV6G0A/fixedanvilrepaircost-1.19.2-3.1.jar"
+url = "https://cdn.modrinth.com/data/jmLyNFBG/versions/fsQRRQ7G/fixedanvilrepaircost-1.19.2-3.2.jar"
 hash-format = "sha1"
-hash = "1dd277e004ee46970deeb1d963851ea9339359f4"
+hash = "103c63a1b4fcbda427a1264e1414397b65d5e8d5"
 
 [update]
 [update.modrinth]
 mod-id = "jmLyNFBG"
-version = "ONPV6G0A"
+version = "fsQRRQ7G"
